@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Frowijn"
+  given-names: "L.S.F."
+  orcid: "https://orcid.org/0000-0001-9178-0169"
+title: "Modelling tool: Comparative-analysis-of-centralized-and-decentralized-offshore-electrolysis-in-the-North-Sea"
+version: 1.0.0
+date-released: 18-06-2024
+url: "https://github.com/LaurensFrowijn/Comparative-analysis-of-centralized-and-decentralized-offshore-electrolysis-in-the-North-Sea"
