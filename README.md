@@ -4,11 +4,11 @@ Welcome to the GitHub repository for our project on the comparative analysis of 
 
 **README.md**: A detailed description of the project, including the purpose, methodology, and instructions on how to use the Excel model.
 
-**Offshore_Electrolysis_Model.xlsx**: The Excel model that contains all the calculations and comparative data for centralized and decentralized electrolysis systems.
+**ISGTConferencePaper_Frowijn et al.(2024) supplementary documentation.xlsx**: The Excel model that contains all the calculations and data for centralized and decentralized electrolysis systems.
 
 ### Project Overview
 
-The transition to renewable energy sources has led to increased interest in centralized and decentralized electrolytic hydrogen production. This project aims to provide a comparative analysis of centralized and decentralized approaches to offshore-wind based electrolysis in the North Sea. By evaluating various parameters such as cost and efficiencies, this analysis provides insights into the range of viable cost options for large-scale hydrogen production based on 100+ different scenarios.
+This project aims to provide a comparative analysis of centralized and decentralized approaches to offshore-wind based electrolysis in the North Sea. By evaluating various parameters such as cost and efficiencies, this analysis provides insights into the range of viable cost options for large-scale hydrogen production based on 100+ different scenarios.
 
 ### Model
 
@@ -20,20 +20,20 @@ The Excel model included in this repository is designed to:
 
 ### How to Use the Excel Model
 
-1. **Download** the `Offshore_Electrolysis_Model.xlsx` file.
+1. **Download** the `ISGTConferencePaper_Frowijn et al.(2024) supplementary documentation.xlsx` file.
 2. **Open** the file in Microsoft Excel or a compatible spreadsheet application.
-3. **Navigate** through the different sheets to explore the data inputs, calculations, and results.
-   - **Input Data**: Enter your specific data or use the default values provided.
-   - **Calculations**: Review the automated calculations based on the input data.
-   - **Results**: Analyze the comparative outputs for centralized and decentralized systems.
+3. **Navigate** through the different sheets to explore the variables, modelling, data, and wind source.
+   - **Variables**: Select Distance to shore (50, 150, or 150 km), System configuration (three alternatives), and Electrolyzer (PEM or alkaline).
+   - **Variables**: Select specific data for the scenario to simulate LCOH of the system configurations.
+   - **Modelling**: Sheet were the LCOH is also presented as well as the total hydrogen production (in kg) and system efficiency.
+   - **Data**: Overview of all considered data and sources.
+   - **wind_source**: Sheet with wind data.
+   - **IEA 15 MW RWT**: Sheet with wind power curve.
 
-### License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ### Contact
 
-For any questions or further information, please open an issue in this repository or contact the project maintainers.
+For any questions or further information, please open an issue in this repository or contact l.s.f.frowijn@tudelft.nl.
 
 ---
 
